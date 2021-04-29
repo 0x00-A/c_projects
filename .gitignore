@@ -2,3 +2,5 @@ a
 a.c
 test.c
 *.c~
+*.swp
+*.un~
