@@ -4,3 +4,5 @@ test.c
 *.c~
 *.swp
 *.un~
+temp.c
+*.swo
