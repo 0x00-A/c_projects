@@ -1,4 +1,4 @@
-####### Currently Learning
+####### 
 
 ### Big O Notation
 	*
@@ -13,17 +13,11 @@
 	**Arrays
 
 
-####### Playlists
+####### 
 
 ### sc50
 ### Git
 ### big O
 
 
-####### Try to do a little project
 
-
-####### Books
-	* Deep work
-
-####### Vocabulary
